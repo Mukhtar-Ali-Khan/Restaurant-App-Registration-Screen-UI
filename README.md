@@ -1,4 +1,4 @@
-# restaurant_app_registration
+## Restaurant App Registration UI
 
 A new Flutter project.
 
